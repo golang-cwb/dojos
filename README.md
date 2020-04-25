@@ -1,2 +1,4 @@
-# dojos
-Dojos realizados pela comunidade Golang CWB
+# Dojos
+
+Dojos realizados pela comunidade Golang CWB.
+
